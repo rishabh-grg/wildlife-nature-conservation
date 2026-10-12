@@ -22,7 +22,7 @@ nav a:hover {
 
 /* Hero Section */
 .hero {
-    background-image: url('Assets/images/Bg.jfif');
+    background-image: url('assets/images/Bg.jfif');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
